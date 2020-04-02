@@ -1,3 +1,13 @@
 # pyqt-movie-database
 
 Мой проект по курсу ООП на весну 2020.
+
+База данных фильмов:
+![База данных фильмов](https://lh3.googleusercontent.com/HIZc0Uy3Cdqd9OCtYDLhRsvH0nkbqwnVicKiF2dR7TyIN6QrMQJoYiHWYZwTgl5cEPoeaJ9o5x0Gio7WvjYYiRGm8LjrkflspB1445aIoc4831ceuH10IQnwDaWXGfKilZFq-qodlvCjDJNPT9_jUKv3VnAfQ-X1YqD8a9-iOwEPgvB_t1OaMpzSvj6v6bkVg21y1klC3KzwXpPpj3mAJiFKoPFGVloB2gL-tUw6DlIcWaIUJDgM3gNyqIS-294arTK7oOlyidDcKrqpUVW4AyRur7b7u-DA0IR69062Id3rctZS8Xt23TUTm4pb1Bd0z-vDQPZBy-e5a0daz9J06ZNKUcsIn1K1gbli6nItsVOOcMH9W7a4yfhxreUWoGzafo1lh7_j0FWbfb6dROOlg3Bw4Y5MxyBXAhdImGqPXxtjbekE5EQ-NQSGqYSPA9e0CxZkFJg29BcX02ofnNYpoeEiDHKV_P7udM3RGH8QVnP5VSh-eeSc5EBog4dk24etlGXhVYpY49Ex3I501VOuF656DXsUsSzTQMAOJtF6E9GxYsh9OT4gAzih0BngUkI5WVbR4qwYdzB631ckoDMKBjaSqKX29K424zz0AAfYDcQDRsVlWLGEKB1mVuG8j256X6vAhWG2jj9ZA4l2AZ8NmJe9n6b-BSfzG19hm-Ooj-87RFFQIq3mOSYAQ7It9w=w872-h471-no)
+Список таблиц:
+
+ - movie - Таблица фильмов
+ - viewer - Таблица обзорщиков фильмов
+ - actor - Таблица актеров
+ - director - Таблица режиссеров
+ - rating - Таблциа оценок фильмов
